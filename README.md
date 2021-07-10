@@ -12,3 +12,9 @@
 ## Language Used 
 
 Python
+
+---
+
+## Analysis
+
+**Document link**: https://github.com/10adnan75/mini-project/blob/main/Analysis.docx
