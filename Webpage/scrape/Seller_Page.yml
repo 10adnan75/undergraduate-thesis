@@ -1,0 +1,20 @@
+Seller_Name:
+    css: h1
+    xpath: null
+    type: Text
+Total_Rating:
+    css: 'tr:nth-of-type(5) td.a-text-right:nth-of-type(5) span'
+    xpath: null
+    type: Text
+Pect_Pos_Rating:
+    css: 'td.a-text-right:nth-of-type(5) span.a-color-success'
+    xpath: null
+    type: Text
+Pect_Neg_Rating:
+    css: 'td.a-text-right:nth-of-type(5) span.a-color-error'
+    xpath: null
+    type: Text
+Pect_Neu_Rating:
+    css: 'td.a-text-right:nth-of-type(5) span.a-color-secondary'
+    xpath: null
+    type: Text
