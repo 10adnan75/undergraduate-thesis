@@ -6,3 +6,9 @@
 2. Divit Shah
 3. Rachit Shaha
 4. Samyak Jain
+
+---
+
+## Language Used 
+
+Python
