@@ -1,6 +1,6 @@
-# mini-project
+# Machine Learning to Predict Fake Product Reviews on Amazon
 
-**Group members**: Group O
+**Group members**
 
 1. Adnan Shaikh
 2. Divit Shah
