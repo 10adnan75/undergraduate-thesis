@@ -9,9 +9,12 @@
 
 ---
 
-## Language Used 
+## Languages Used 
 
-Python
+1. Python
+2. Javascript
+3. NoSQL
+4. JSON
 
 ---
 
